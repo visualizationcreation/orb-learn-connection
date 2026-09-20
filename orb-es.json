@@ -1,0 +1,351 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "Conectar sin perderte a ti",
+    "scope": "Un poco más de espacio · Ocho lecturas educativas breves con prácticas cotidianas opcionales. No son diagnóstico ni tratamiento.",
+    "visualQuery": "everyday mental wellbeing",
+    "intent": {
+      "subject": "Conectar sin perderte a ti",
+      "direction": "Explore a practical psychological perspective with ordinary examples and realistic limits.",
+      "perspective": "Public education; gentle, optional practices without clinical promises.",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "y": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      }
+    },
+    "readings": [
+      {
+        "id": "orb-learn-connection-p01",
+        "label": "La conexión admite límites",
+        "text": "Conectar no significa estar disponible para todo el mundo. Una relación de apoyo puede incluir peticiones honestas y límites claros. Hoy exploramos cómo pedir compañía sin perder de vista tus necesidades.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Conectar no significa estar disponible para todo el mundo. Una relación de apoyo puede incluir peticiones honestas y límites claros. Hoy exploramos cómo pedir compañía sin perder de vista tus necesidades.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Connection can include limits",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "Introduction to the practice.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p02",
+        "label": "Nombra el apoyo que necesitas",
+        "text": "¿Quieres que te escuchen, ayuda práctica, consejos o simplemente compañía? Son peticiones diferentes. Nombrar el tipo de apoyo permite que la otra persona comprenda mejor lo que necesitas.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "¿Quieres que te escuchen, ayuda práctica, consejos o simplemente compañía? Son peticiones diferentes. Nombrar el tipo de apoyo permite que la otra persona comprenda mejor lo que necesitas.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Name the kind of support",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p03",
+        "label": "Elige a quién acudir",
+        "text": "Distintas personas pueden ofrecer cosas diferentes. Un amigo puede escuchar; un grupo puede compartir intereses. Un profesional ofrece otro tipo de apoyo. Una sola persona no tiene que cumplir todas esas funciones.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Distintas personas pueden ofrecer cosas diferentes. Un amigo puede escuchar; un grupo puede compartir intereses. Un profesional ofrece otro tipo de apoyo. Una sola persona no tiene que cumplir todas esas funciones.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Choose a suitable person",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p04",
+        "label": "Haz una invitación concreta",
+        "text": "Prueba una invitación concreta: ¿Tendrías diez minutos para escucharme luego? Puedes añadir que ahora no buscas soluciones. Una petición clara ayuda más que esperar que alguien adivine lo que necesitas.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Prueba una invitación concreta: ¿Tendrías diez minutos para escucharme luego? Puedes añadir que ahora no buscas soluciones. Una petición clara ayuda más que esperar que alguien adivine lo que necesitas.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Make a specific invitation",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p05",
+        "label": "Expresa un límite posible",
+        "text": "Un límite puede expresarse así: Esta noche no puedo hablar, pero mañana por la tarde sí. Describe tu disponibilidad y tus decisiones. Un límite no garantiza que la otra persona responda como esperas.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Un límite puede expresarse así: Esta noche no puedo hablar, pero mañana por la tarde sí. Describe tu disponibilidad y tus decisiones. Un límite no garantiza que la otra persona responda como esperas.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "State a limit you can keep",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p06",
+        "label": "Deja espacio para su respuesta",
+        "text": "Quizá la otra persona no tenga disponibilidad hoy. Eso puede decepcionarte sin definir tu valor. Puedes proponer otro momento o buscar otra fuente de apoyo, respetando también su respuesta.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Quizá la otra persona no tenga disponibilidad hoy. Eso puede decepcionarte sin definir tu valor. Puedes proponer otro momento o buscar otra fuente de apoyo, respetando también su respuesta.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Leave room for their answer",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p07",
+        "label": "Cultiva varias conexiones",
+        "text": "Un grupo con intereses comunes, una amistad fiable o una actividad comunitaria puede ampliar tu red. Empieza con una posibilidad realista. Pertenecer no exige ser extrovertido en todas las situaciones.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Un grupo con intereses comunes, una amistad fiable o una actividad comunitaria puede ampliar tu red. Empieza con una posibilidad realista. Pertenecer no exige ser extrovertido en todas las situaciones.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Build more than one connection",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p08",
+        "label": "La seguridad es primero",
+        "text": "La presión, las amenazas o el abuso requieren apoyo adecuado, no comunicarte mejor. Prioriza tu seguridad cuando sea necesario. Estas ideas son educativas; busca ayuda cualificada si la situación o el malestar lo requieren.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "La presión, las amenazas o el abuso requieren apoyo adecuado, no comunicarte mejor. Prioriza tu seguridad cuando sea necesario. Estas ideas son educativas; busca ayuda cualificada si la situación o el malestar lo requieren.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Safety comes before reconciliation",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p02",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p03",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p04",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p05",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p06",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p07",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p08",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "Warm ivory readings in the Orbiversity sunset studio."
+    },
+    "courseOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "neighbors": [],
+    "sources": [
+      {
+        "title": "Social Wellness Toolkit",
+        "url": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit",
+        "publisher": "www.nih.gov",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "title": "Caring for Your Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "publisher": "www.nimh.nih.gov",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "language": "es",
+  "museum": {
+    "attribution": "anonymous",
+    "category": "Wellbeing",
+    "tags": [
+      "mental health",
+      "ORB Learn"
+    ],
+    "library": [
+      {
+        "title": "Social Wellness Toolkit",
+        "url": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit",
+        "type": "website"
+      },
+      {
+        "title": "Caring for Your Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "type": "website"
+      }
+    ]
+  },
+  "reaches": []
+}

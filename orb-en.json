@@ -1,0 +1,351 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "Connection Without Losing Yourself",
+    "scope": "A Little More Room · Eight brief educational readings, with optional everyday practices. These are not diagnosis or treatment.",
+    "visualQuery": "everyday mental wellbeing",
+    "intent": {
+      "subject": "Connection Without Losing Yourself",
+      "direction": "Explore a practical psychological perspective with ordinary examples and realistic limits.",
+      "perspective": "Public education; gentle, optional practices without clinical promises.",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "y": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      }
+    },
+    "readings": [
+      {
+        "id": "orb-learn-connection-p01",
+        "label": "Connection can include limits",
+        "text": "Connection does not mean being available to everyone. A supportive relationship can include honest requests and clear limits. Today, we will explore a small way to ask for company without losing your own needs.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Connection does not mean being available to everyone. A supportive relationship can include honest requests and clear limits. Today, we will explore a small way to ask for company without losing your own needs.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Connection can include limits",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "Introduction to the practice.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p02",
+        "label": "Name the kind of support",
+        "text": "Do you want listening, practical help, advice, or simply company? These are different requests. Naming the kind of support gives the other person a clearer opportunity to understand what you need.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Do you want listening, practical help, advice, or simply company? These are different requests. Naming the kind of support gives the other person a clearer opportunity to understand what you need.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Name the kind of support",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p03",
+        "label": "Choose a suitable person",
+        "text": "Different people can offer different things. A friend may be a good listener; a group may offer shared interests. A professional can provide another kind of support. One person need not fill every role.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Different people can offer different things. A friend may be a good listener; a group may offer shared interests. A professional can provide another kind of support. One person need not fill every role.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Choose a suitable person",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p04",
+        "label": "Make a specific invitation",
+        "text": "Try a small invitation: would you have ten minutes to listen later? You can add, I am not looking for solutions right now. A clear request is more useful than expecting someone to guess.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Try a small invitation: would you have ten minutes to listen later? You can add, I am not looking for solutions right now. A clear request is more useful than expecting someone to guess.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Make a specific invitation",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p05",
+        "label": "State a limit you can keep",
+        "text": "A boundary might sound like: I cannot talk tonight, but tomorrow afternoon could work. Describe your own availability and choices. A limit is not a guarantee that another person will respond as you hope.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "A boundary might sound like: I cannot talk tonight, but tomorrow afternoon could work. Describe your own availability and choices. A limit is not a guarantee that another person will respond as you hope.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "State a limit you can keep",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p06",
+        "label": "Leave room for their answer",
+        "text": "The other person may not have capacity today. That can disappoint you without defining your worth. You can suggest another time or look for another source of support, while respecting their answer.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "The other person may not have capacity today. That can disappoint you without defining your worth. You can suggest another time or look for another source of support, while respecting their answer.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Leave room for their answer",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p07",
+        "label": "Build more than one connection",
+        "text": "A shared-interest group, a reliable friend, or a community activity can become part of a wider support map. Start with one realistic possibility. Belonging does not require being outgoing in every setting.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "A shared-interest group, a reliable friend, or a community activity can become part of a wider support map. Start with one realistic possibility. Belonging does not require being outgoing in every setting.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Build more than one connection",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-connection-p08",
+        "label": "Safety comes before reconciliation",
+        "text": "Pressure, threats, or abuse call for appropriate support, not better performance at communicating. Choose safety over reconciliation when needed. These ideas are educational; seek qualified help when a situation or persistent distress needs more support.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Pressure, threats, or abuse call for appropriate support, not better performance at communicating. Choose safety over reconciliation when needed. These ideas are educational; seek qualified help when a situation or persistent distress needs more support.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Safety comes before reconciliation",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p02",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p03",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p04",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p05",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p06",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p07",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-connection-p01",
+        "to": "orb-learn-connection-p08",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "Warm ivory readings in the Orbiversity sunset studio."
+    },
+    "courseOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "neighbors": [],
+    "sources": [
+      {
+        "title": "Social Wellness Toolkit",
+        "url": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit",
+        "publisher": "www.nih.gov",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "title": "Caring for Your Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "publisher": "www.nimh.nih.gov",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "language": "en",
+  "museum": {
+    "attribution": "anonymous",
+    "category": "Wellbeing",
+    "tags": [
+      "mental health",
+      "ORB Learn"
+    ],
+    "library": [
+      {
+        "title": "Social Wellness Toolkit",
+        "url": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits/social-wellness-toolkit",
+        "type": "website"
+      },
+      {
+        "title": "Caring for Your Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "type": "website"
+      }
+    ]
+  },
+  "reaches": []
+}
